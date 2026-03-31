@@ -54,7 +54,6 @@ To build a deep learning object detection pipeline that:
 object-detection-yolov8/
 │
 ├── object_detection.ipynb   # Main Colab notebook
-├── sample_images/           # Test images
 ├── results/                 # Output detection images
 ├── requirements.txt         # Dependencies
 └── README.md                # Project documentation
@@ -110,6 +109,5 @@ Chair · Sofa · TV · Bottle · Cup · Phone · and 67 more...
 ---
 
 ⭐ If you found this project helpful, please give it a star!
-```
 
 ---
